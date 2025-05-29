@@ -1,0 +1,58 @@
+{
+  "notes": [
+    {
+      "note": "Do",
+      "file1": "sound/do.mp3"
+    },
+    {
+      "note": "Re",
+      "file2": "sound/re.mp3"
+    },
+    {
+      "note": "Mi",
+      "file3": "sound/mi.mp3"
+    },
+    {
+      "note": "Fa",
+      "file4": "sound/fa.mp3"
+    },
+    {
+      "note": "Sol",
+      "file5": "sound/sol.mp3"
+    },
+    {
+      "note": "La",
+      "file6": "sound/la.mp3"
+    },
+    {
+      "note": "Si",
+      "file7": "sound/si.mp3"
+    }
+  ],
+  "melodies": [
+    {
+      "id": 1,
+      "melody": "sol sol la si la sol si la la sol"
+    },
+    {
+      "id": 1,
+      "text": "",
+      "title": "undefined"
+    },
+    {
+      "id": 1,
+      "text": "sol sol sol sol ",
+      "title": "undefined"
+    },
+    {
+      "id": 1,
+      "text": "sol sol sol sol sol sol sol ",
+      "title": "firsttitle"
+    },
+    {
+      "id": 1,
+      "text": "re mi fa sol la do sol sol sol sol sol sol sol sol do do do do do do do do do ",
+      "title": "gh"
+    }
+  ]
+}
